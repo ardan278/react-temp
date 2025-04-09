@@ -1,0 +1,27 @@
+.App-App10-Container {
+    background-color: pink;
+    text-align: center;
+}
+
+.App-App10-Row {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.App-App10-Box {
+    width: 400px;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    font-size: xx-large;
+}
+
+.app10-button{
+    font-size: xx-large;
+    padding: 1rem;
+    border-radius: 10rem;
+    margin-bottom: 1rem;
+}
